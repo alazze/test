@@ -1,0 +1,9 @@
+data/
+reports/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.sqlite
+*.sqlite-*
+*.db
